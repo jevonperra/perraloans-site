@@ -1,0 +1,270 @@
+{
+ "$schema": "https://openapi.vercel.sh/vercel.json",
+ "cleanUrls": false,
+ "redirects": [
+  {
+   "source": "/privacy-policy",
+   "destination": "/privacy.html",
+   "permanent": true
+  },
+  {
+   "source": "/privacy-policy/",
+   "destination": "/privacy.html",
+   "permanent": true
+  },
+  {
+   "source": "/contact-us",
+   "destination": "/#contact",
+   "permanent": true
+  },
+  {
+   "source": "/contact-us/",
+   "destination": "/#contact",
+   "permanent": true
+  },
+  {
+   "source": "/about-us",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/about-us/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/news",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/news/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/trainers",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/trainers/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/membership",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/membership/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/wpforms-preview",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/wpforms-preview/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/home",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/home/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11-2",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11-2/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/fountain-valley",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/fountain-valley/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/newport-beach",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/newport-beach/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/28-things-you-need-to-know-about-huntington-beach-before-you-move-there",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/28-things-you-need-to-know-about-huntington-beach-before-you-move-there/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/18-best-things-to-do-in-anaheim-california",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/18-best-things-to-do-in-anaheim-california/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/11-best-things-to-do-in-laguna-niguel-california",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/11-best-things-to-do-in-laguna-niguel-california/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/9-best-things-to-do-in-yorba-linda-california",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/9-best-things-to-do-in-yorba-linda-california/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/a-few-must-do-things-in-garden-grove-ca",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/a-few-must-do-things-in-garden-grove-ca/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/14-best-things-to-do-in-costa-mesa-california",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/14-best-things-to-do-in-costa-mesa-california/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/18-best-things-to-do-in-santa-ana",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/18-best-things-to-do-in-santa-ana/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/top-100-things-to-do-in-laguna-beach",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/top-100-things-to-do-in-laguna-beach/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/1f2ad3d15adc",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/1f2ad3d15adc/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11-3",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/40a5b166ae11-3/",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/category/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/tag/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/author/:path*",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/feed",
+   "destination": "/",
+   "permanent": true
+  },
+  {
+   "source": "/:year(\\d{4})/:path*",
+   "destination": "/",
+   "permanent": true
+  }
+ ],
+ "headers": [
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Content-Type-Options",
+     "value": "nosniff"
+    },
+    {
+     "key": "Referrer-Policy",
+     "value": "strict-origin-when-cross-origin"
+    },
+    {
+     "key": "X-Frame-Options",
+     "value": "SAMEORIGIN"
+    }
+   ]
+  }
+ ]
+}
